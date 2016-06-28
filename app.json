@@ -1,17 +1,6 @@
 {
-  "name": "herokuhelloworld",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "heroku/php"
-    }
-  ]
+  "name": "PHP Getting Started",
+  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
 }
